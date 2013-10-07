@@ -7,6 +7,8 @@ REDSBROWSER.PY - This is a module i've put together for myself that I use almost
 
 GET_PUBLIC_IP.PY - Short little script that will access canyouseeme.org and check to see what ip address you're currently broadcasting to the internet.
 
-sync_folders.py - Cool looking Python GUI for syncing 2 folders.  Originally found on ubuntuforums submitted by mushy365 who wrote it for making backups of hundreds of files downloaded from the internet. Pretty nice appearance and looks handy but I honestly havent got to try this one yet.
+SYNC_FILES.py - Cool looking Python GUI for syncing 2 folders.  Originally found on ubuntuforums submitted by mushy365 who wrote it for making backups of hundreds of files downloaded from the internet. Pretty nice appearance and looks handy but I honestly havent got to try this one yet.
+
+UNHIDE_PASSWORD JAVASCRIPT.TXT - This is a little javascript code that you can save as a shortcut and whenever you click it, it will give you a pop up with the plain text of any hidden passwords on the screen (i.e. ******)  Nice to have on a USB drive to quickly access another computer and unplug.
 
 
